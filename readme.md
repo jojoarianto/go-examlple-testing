@@ -1,3 +1,6 @@
 # Testing on golang
 
-work in progress
+Pratice from, https://tutorialedge.net/golang/improving-your-tests-with-testify-go/
+
+## Dependency
+- github.com/stretchr/testify
